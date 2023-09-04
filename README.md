@@ -12,3 +12,6 @@ Suicide bombing saw a substantial increase post 2004.
 ![graph gtd](https://github.com/Wasique00/prodigy_task_02/assets/143739626/fe12e9ae-ea7a-4082-8d97-5f6e76900d90)
 
 
+
+
+![yr vs attacks](https://github.com/Wasique00/prodigy_task_02/assets/143739626/81e92293-7d2f-42d4-8a1a-213919f6e55b)
